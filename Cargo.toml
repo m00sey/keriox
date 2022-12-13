@@ -1,7 +1,7 @@
 [package]
 name = "keriox"
 version = "0.0.2"
-edition = "2022"
+edition = "2021"
 description = "Implementation of Key Event Receipt Infrastructure (KERI)"
 license = "Apache-2.0"
 
